@@ -95,7 +95,23 @@
           
         }
       ]
-    }
+    },
     
+    {
+      "id": "PROJET5",
+      "title": "Site Web",
+      "label": "2020 -- | ReactJS/Graphql & Ruby On Rails",
+      "style": {
+        "width": 300
+      },
+      "cards": [
+        {
+          "id": "Projet5",
+          "title": "SAYNA SCHOOL",
+          "description": "Developpement de la plateforme SAYNA SCHOOL."
+          
+        }
+      ]
+    }
   ]
 }
